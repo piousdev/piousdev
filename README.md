@@ -4,13 +4,7 @@
 
 My work reflects my ability to transform complex concepts into practical, user-friendly applications, ensuring optimal performance and seamless user interactions. 
 
-I'm proficient in various tools and technologies and always curious to explore more. My versatility as a developer is shown through my hands-on projects, which I have independently designed, developed, and deployed: 
-
-🚀 A fully functional, responsive space-themed portfolio web application using Next.js and TypeScript. This project illustrates my self-motivated nature and my capacity to learn and implement new technologies outside the formal Junior Java Software Development curriculum at BeCode Ghent. 
-
-🏥 A user-centric hospital web application aimed at maximizing accessibility and delivering compelling user experiences. This project is a testament to my focus on users' needs and preferences while designing software solutions. 
-
-To ensure efficient development processes, I've adopted Agile methodologies, which have decreased project completion time by about 10%. This showcases my dedication to optimizing workflows and increasing productivity. 
+I'm proficient in various tools and technologies and always curious to explore more. My versatility as a developer is shown through my hands-on projects, which I have independently designed, developed, and deployed. 
 
 As a software developer, my journey doesn't end here. I am constantly seeking to learn and embracing opportunities that challenge me. I aspire to work on cutting-edge projects that push the boundaries of my knowledge and skills. I'm especially interested in joining/working with teams that value creativity, collaboration, and a firm dedication to delivering high-quality software solutions. 
 
