@@ -59,11 +59,7 @@ In addition to my projects, my GitHub profile is a testament to my learning jour
                   
                   
 <p align="left">                      
-<a href="https://www.linkedin.com/in/piousalpha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
-<a href="https://dev.to/pious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pious" height="30" width="40" /></a> 
- 
-<a href="https://twitter.com/piousalphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piousalphadev" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/piousalpha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://dev.to/pious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pious" height="30" width="40" /></a><a href="https://twitter.com/piousalphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piousalphadev" height="30" width="40" /></a></p>
 
 
 ### Badges
@@ -81,4 +77,7 @@ In addition to my projects, my GitHub profile is a testament to my learning jour
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/piousdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+![logo](https://github.com/piousdev/piousdev/assets/102190049/4190f607-2571-416c-8a75-3234dde9cd1d)
 
