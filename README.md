@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Pious</h1>
 
-<h3>A Software Developer based in Belgium</h3>
+<h3>Crafting code from the heart of Belgium</h3>
 
 My work reflects my ability to transform complex concepts into practical, user-friendly applications, ensuring optimal performance and seamless user interactions. 
 
