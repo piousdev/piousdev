@@ -14,10 +14,14 @@ As a software developer, my journey doesn't end here. I am constantly seeking to
 In addition to my projects, my GitHub profile is a testament to my learning journey, passion for coding, and commitment to the broader open-source community. I appreciate your time visiting my profile and reviewing my work. Feel free to contact me for collaborations or chat about tech, coding, and innovation. Happy coding! 🚀
 
 
+
+
+
 *   🌍  I'm based in Antwerp, Belgium
 *   ✉️  You can contact me at [piousdev@proton.me](mailto:piousdev@proton.me)
 *   🧠  I'm currently refining my skills in Java FullStack Development with TypeScript & NextJS as the frontend framework/support
 *   🤝  I'm open to collaborating on anything interesting, preferably tech based
+
 
 
 
@@ -55,6 +59,7 @@ In addition to my projects, my GitHub profile is a testament to my learning jour
 
 
 
+
 ### Socials
                   
                   
@@ -63,6 +68,10 @@ In addition to my projects, my GitHub profile is a testament to my learning jour
 <a href="https://dev.to/pious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pious" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/piousalphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piousalphadev" height="30" width="40" /></a>
 </p>
+
+
+
+
 
 
 
