@@ -58,9 +58,12 @@ In addition to my projects, my GitHub profile is a testament to my learning jour
 ### Socials
                   
                   
-<p align="left">
-<a href="https://www.github.com/piousdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                         
-<a href="https://www.linkedin.com/in/piousalpha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://dev.to/pious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pious" height="30" width="40" /></a> <a href="https://twitter.com/piousalphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piousalphadev" height="30" width="40" /></a></p>
+<p align="left">                      
+<a href="https://www.linkedin.com/in/piousalpha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+<a href="https://dev.to/pious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pious" height="30" width="40" /></a> 
+ 
+<a href="https://twitter.com/piousalphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piousalphadev" height="30" width="40" /></a></p>
 
 
 ### Badges<b>My GitHub Stats</b>
