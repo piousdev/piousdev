@@ -7,7 +7,7 @@
 
 My work reflects my ability to transform complex concepts into practical, user-friendly applications, ensuring optimal performance and seamless user interactions. 
 
-I'm proficient in various tools and technologies and always curious to explore more. My versatility as a developer is shown through my hands-on projects, which I have independently designed, developed, and deployed. 
+I'm proficient in various tools and technologies and always curious to explore more. My versatility as a developer is shown through my hands-on projects, which I have independently designed and developed. 
 
 As a software developer, my journey doesn't end here. I am constantly seeking to learn and embracing opportunities that challenge me. I aspire to work on cutting-edge projects that push the boundaries of my knowledge and skills. I'm especially interested in joining/working with teams that value creativity, collaboration, and a firm dedication to delivering high-quality software solutions. 
 
