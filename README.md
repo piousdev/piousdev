@@ -66,7 +66,9 @@ In addition to my projects, my GitHub profile is a testament to my learning jour
 <a href="https://twitter.com/piousalphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piousalphadev" height="30" width="40" /></a></p>
 
 
-### Badges<b>My GitHub Stats</b>
+### Badges
+
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/piousdev"><img src="https://github-readme-stats.vercel.app/api?username=piousdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="piousdev's GitHub stats" /></a>
 
