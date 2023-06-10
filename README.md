@@ -1,4 +1,5 @@
-![cover-image](https://github.com/piousdev/piousdev/assets/102190049/55c2344a-b92f-478f-937c-f6f16e3e644b)
+![New](https://github.com/piousdev/piousdev/assets/102190049/dc792722-ce9c-43a9-9419-846ff075606d)
+
 
 <h1>Hi 👋, I'm Pious</h1>
 
