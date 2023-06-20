@@ -19,7 +19,7 @@ In addition to my projects, my GitHub profile is a testament to my learning jour
 
 *   🌍  I'm based in Antwerp, Belgium
 *   ✉️  You can contact me at [piousdev@proton.me](mailto:piousdev@proton.me)
-*   🧠  I'm currently refining my skills in Java FullStack Development with TypeScript & NextJS as the frontend framework/support
+*   🧠  I'm currently refining my skills in Java FullStack Development with TypeScript & React(NextJS) as the frontend framework/support
 *   🤝  I'm open to collaborating on anything interesting, preferably tech based
 
 
